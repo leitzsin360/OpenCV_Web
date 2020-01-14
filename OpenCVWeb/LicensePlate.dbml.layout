@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="LicensePlate">
+  <DataContextMoniker Name="/LicensePlateDataContext" />
+  <nestedChildShapes>
+    <classShape Id="c6b12639-fbdb-47ae-b92b-727918c8b60d" absoluteBounds="1.5, 2.125, 2, 1.1677168782552083">
+      <DataClassMoniker Name="/LicensePlateDataContext/License" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9b5dd54f-b6fa-44ff-8385-0ac7654b85cc" absoluteBounds="1.5150000000000001, 2.585, 1.9700000000000002, 0.60771687825520826" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
